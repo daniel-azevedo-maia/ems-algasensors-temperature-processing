@@ -20,5 +20,3 @@ public class UUIDv7Utils {
         return OffsetDateTime.ofInstant(Instant.ofEpochMilli(timestamp), ZoneId.systemDefault());
     }
 }
-
-
